@@ -1,2 +1,2 @@
 # 4bar-optimizer
-MATLAB Optimizer for 4-bar linkages
+MATLAB code to solve for forces in 4-bar linkages, as well as code that tries to optimize linkages
